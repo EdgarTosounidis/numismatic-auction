@@ -1,6 +1,6 @@
 # The Backend Code Folder
 
-This folder contains the backend code files for your site. These files correspond to the ones found in the [**Backend**](https://support.wix.com/en/article/velo-working-with-the-velo-sidebar#backend) section of the **Public & Backend** 
+This folder contains the backend code files for your site. These files correspond to the ones found in the [**Backend**] section of the **Public & Backend** 
 ![image](https://user-images.githubusercontent.com/89579857/184862813-e55cdd98-b723-4d64-b73c-593eb9af21c7.png) tab in the Velo sidebar. Add the following files to this folder to include them in your site:
   
 + **General backend files**  
